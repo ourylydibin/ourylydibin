@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
-<code><img height="50" src="https://github.com/ourylydibin/reviews-scrapping/blob/main/static/css/in.png"></code>
 [![(<img height="50" src="https://github.com/ourylydibin/reviews-scrapping/blob/main/static/css/in.png">)](https://img.shields.io/badge/M.Oury?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-oury-ly-724960a9/)](https://www.linkedin.com/in/m-oury-ly-724960a9/)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-ouryly-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ouryly084@gmail.com)](mailto:ouryly084@gmail.com)
