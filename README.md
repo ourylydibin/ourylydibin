@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Interested in developping AI products</h3>
 
 
-![](https://komarev.com/ghpvc/?username=Gladiator07)
-
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
 
