@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/BBhRmW0QGrUEePZID5/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
