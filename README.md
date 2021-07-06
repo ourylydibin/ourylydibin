@@ -33,9 +33,7 @@ You can click the Preview link to take a look at your changes.
 - 🤔 I’m looking for help with currently nothing 😁
 
 ### I am currently working on:
-- ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
-- 👀 [SETI Breakthrough Listen - E.T. Signal Search (Kaggle)](https://www.kaggle.com/c/seti-breakthrough-listen)
-- 👀 [CommonLit Readability Prize (Kaggle)](https://www.kaggle.com/c/commonlitreadabilityprize/)
+- ⚡**Banknote Authentication**⚡ - an end-to-end Machine Learning project.The project will be deployed with Docker container.
 - 😉 Personal Portfolio Website
 
 ### Recent Projects 🎉🎉
