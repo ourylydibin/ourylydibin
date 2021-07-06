@@ -27,11 +27,10 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BBhRmW0QGrUEePZID5/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Transformers, GANs, MLOPs and DSA
-- 👯 I’m looking to collaborate on Kaggle Competitions
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP
+- 🌱 I’m currently learning MLOPs 
+- 👯 I’m looking to collaborate in ML projects
 - 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
