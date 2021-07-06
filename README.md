@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h5><i>Contacts</i></h5>
 
-[![LinkedIn](https://img.shields.io/badge/M.Oury?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-oury-ly-724960a9/)](https://www.linkedin.com/in/m-oury-ly-724960a9/)
+[![LinkedIn](https://img.shields.io/badge/M.Oury?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-oury-ly-724960a9/)](https://www.linkedin.com/in/m-oury-ly-724960a9/) <br>
 [![ouryly084@gmail.com](https://img.shields.io/badge/M.Oury?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-oury-ly-724960a9/)](https://www.linkedin.com/in/m-oury-ly-724960a9/)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-ouryly-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ouryly084@gmail.com)](mailto:ouryly084@gmail.com)
