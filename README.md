@@ -34,13 +34,13 @@ You can click the Preview link to take a look at your changes.
 
 ### I am currently working on:
 - ⚡**Banknote Authentication**⚡ - an end-to-end Machine Learning project.The project will be deployed with Docker container.
+- ⚡**Diabetes prediction**⚡ - an end-to-en Machine Learning project that will be deployed to Heroku
 - 😉 Personal Portfolio Website
 
 ### Recent Projects 🎉🎉
-- [Harvestify](https://github.com/Gladiator07/Harvestify)
-- [JARVIS](https://github.com/Gladiator07/JARVIS)
-- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
-- [Handwritten Digit Classification in pure C++ (without any external libraries)](https://github.com/Gladiator07/Neural-Network-from-scratch-in-CPP)
+ [Reviews Scrapping](https://github.com/ourylydibin/reviews-scrapping)
+
+
 ---
 
 ### Tools and Technologies:
