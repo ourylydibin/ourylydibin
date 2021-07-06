@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Interested in developping AI products</h3>
 
 
-<h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
+<h5><i>(Contacts)</i></h5>
 
 [![Linkedin](https://img.shields.io/badge/M.Oury?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-oury-ly-724960a9/)](https://www.linkedin.com/in/m-oury-ly-724960a9/)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
