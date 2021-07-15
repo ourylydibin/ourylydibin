@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Recent Projects 🎉🎉
  [Reviews Scrapping](https://github.com/ourylydibin/reviews-scrapping)
-
-
+[diabetes_detection](https://github.com/ourylydibin/Diabete_deployment_Heroku)
+[diabetes_detection](https://github.com/ourylydibin/Diabete_deployment_Heroku)
 ---
 
 ### Tools and Technologies:
