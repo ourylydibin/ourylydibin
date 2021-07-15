@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 - 😉 Personal Portfolio Website
 
 ### Recent Projects 🎉🎉
- [Reviews Scrapping](https://github.com/ourylydibin/reviews-scrapping)
-[diabetes_detection](https://github.com/ourylydibin/Diabete_deployment_Heroku)
+ - [Reviews Scrapping](https://github.com/ourylydibin/reviews-scrapping)
+ - [diabetes_detection](https://github.com/ourylydibin/Diabete_deployment_Heroku)
 
 ---
 
