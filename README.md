@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Mamadou Oury Ly</h1>
 <h3 align="center">Interested in understanding the intersection of Health analytics and Data Science</h3>
 
-
-<h5><i>Contacts</i></h5>
 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/Data%20Science%20Portfolio-yellow?style=plastic&logo=portfolio&labelColor=white)](https://ourylydibin.github.io/oury/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/m-oury-ly-724960a9/) 
