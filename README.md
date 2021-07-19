@@ -10,8 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 <h5><i>Contacts</i></h5>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/m-oury-ly-724960a9/) 
 [![LinkedIn](https://img.shields.io/badge/Data%20Science%20Portfolio-yellow?style=plastic&logo=portfolio&labelColor=white)](https://ourylydibin.github.io/oury/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/m-oury-ly-724960a9/) 
+[![LinkedIn](https://img.shields.io/badge/Github-blue?style=plastic&logo=github&labelColor=black)](https://github.com/ourylydibin) 
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
 
