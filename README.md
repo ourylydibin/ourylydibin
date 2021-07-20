@@ -27,9 +27,10 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BBhRmW0QGrUEePZID5/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP <!--- 🌱 I’m currently learning MLOPs --->
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP 
 - 👯 I’m looking to collaborate in ML projects
 <!--- 🤔 I’m looking for help with currently nothing 😁--->
+<!--- 🌱 I’m currently learning MLOPs --->
 
 <!---### I am currently working on:
 - ⚡**Banknote Authentication**⚡ - an end-to-end Machine Learning project.The project will be deployed with Docker container.
